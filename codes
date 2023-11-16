@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("Mission.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+</head>
+<center>
+<h1>CCS Mission</h1>
+<div>
+<h2><p style="color:White"; align="center"; "font-size:30px">We provide students with the knowledge and understanding of emerging technologies so that they become lifelong learners imbued with the Perpetualite character and values, and are able to adapt to technological changes and function in an informational society through updated, specialized and individualized instructions and support programs.</p></h2>
+</div>
+
+</body>
+</html>
